@@ -1,6 +1,6 @@
 # Number Manipulation Application
 
-A Java console application that performs various statistical and analytical operations on an array of user-provided integers.
+A Java console application that performs various operations on an array of user-provided integers.
 
 ## Overview
 
